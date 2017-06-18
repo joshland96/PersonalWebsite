@@ -1,5 +1,0 @@
-#!/bin/sh
-
-. /Applications/wordpress-4.8.php56-0/scripts/setenv.sh
-
-exec /Applications/wordpress-4.8.php56-0/common/bin/.gettext.bin  "$@"

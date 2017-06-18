@@ -1,8 +1,0 @@
-#!/bin/sh
-
-PATH="/Applications/wordpress-4.8.php56-0/varnish/bin:/Applications/wordpress-4.8.php56-0/sqlite/bin:/Applications/wordpress-4.8.php56-0/php/bin:/Applications/wordpress-4.8.php56-0/mysql/bin:/Applications/wordpress-4.8.php56-0/apache2/bin:/Applications/wordpress-4.8.php56-0/common/bin:$PATH"
-BITNAMI_ROOT="/Applications/wordpress-4.8.php56-0"
-export BITNAMI_ROOT
-
-
-exec /bin/bash --noprofile --norc

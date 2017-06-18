@@ -1,4 +1,0 @@
-#!/bin/sh
-. /Applications/wordpress-4.8.php56-0/php/../scripts/setenv.sh
-
-exec /Applications/wordpress-4.8.php56-0/php/bin/composer.phar "$@"
