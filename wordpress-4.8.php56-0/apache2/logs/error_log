@@ -1,0 +1,14 @@
+[Sun Jun 18 17:27:13.383326 2017] [ssl:warn] [pid 34872] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 18 17:27:13.506106 2017] [ssl:warn] [pid 34873] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 18 17:27:13.509219 2017] [mpm_prefork:notice] [pid 34873] AH00163: Apache/2.4.25 (Unix) PHP/5.6.30 OpenSSL/1.0.2l configured -- resuming normal operations
+[Sun Jun 18 17:27:13.509279 2017] [core:notice] [pid 34873] AH00094: Command line: '/Applications/wordpress-4.8.php56-0/apache2/bin/httpd.bin -f /Applications/wordpress-4.8.php56-0/apache2/conf/httpd.conf'
+[Sun Jun 18 17:27:19.735295 2017] [mpm_prefork:notice] [pid 34873] AH00169: caught SIGTERM, shutting down
+[Sun Jun 18 17:27:22.427118 2017] [ssl:warn] [pid 34924] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 18 17:27:22.497586 2017] [ssl:warn] [pid 34925] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 18 17:27:22.501650 2017] [mpm_prefork:notice] [pid 34925] AH00163: Apache/2.4.25 (Unix) PHP/5.6.30 OpenSSL/1.0.2l configured -- resuming normal operations
+[Sun Jun 18 17:27:22.501716 2017] [core:notice] [pid 34925] AH00094: Command line: '/Applications/wordpress-4.8.php56-0/apache2/bin/httpd.bin -f /Applications/wordpress-4.8.php56-0/apache2/conf/httpd.conf'
+[Sun Jun 18 17:27:35.952533 2017] [mpm_prefork:notice] [pid 34925] AH00169: caught SIGTERM, shutting down
+[Sun Jun 18 17:27:38.645012 2017] [ssl:warn] [pid 35014] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 18 17:27:38.718875 2017] [ssl:warn] [pid 35015] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jun 18 17:27:38.721050 2017] [mpm_prefork:notice] [pid 35015] AH00163: Apache/2.4.25 (Unix) PHP/5.6.30 OpenSSL/1.0.2l configured -- resuming normal operations
+[Sun Jun 18 17:27:38.721114 2017] [core:notice] [pid 35015] AH00094: Command line: '/Applications/wordpress-4.8.php56-0/apache2/bin/httpd.bin -f /Applications/wordpress-4.8.php56-0/apache2/conf/httpd.conf'
